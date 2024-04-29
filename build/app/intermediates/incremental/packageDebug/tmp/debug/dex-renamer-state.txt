@@ -1,0 +1,4 @@
+#Tue Apr 30 01:47:16 WIB 2024
+base.0=/Users/singgih.saputro/AndroidStudioProjects/flutter-project/animation/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
